@@ -1,6 +1,7 @@
 package PackageTest;
 
 import employee.Employee;
+// the Employee class is defined in that package
 
  import static java.lang.System.*;
 
